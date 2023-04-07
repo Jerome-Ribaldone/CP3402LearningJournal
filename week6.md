@@ -5,9 +5,8 @@ This week the activities that were learnt were how to set up a wordpress child t
 ## Resources/Links
 https://developer.wordpress.org/themes/advanced-topics/child-themes/
 ## Estimated Hours
-I spent 2-3 hours on the practical and I spent another 6 hour of my free time this week this week learning about wordpress
+I spent 1 hours on the practical and I then spent another 4 horu on the pracitcal trying to figure out how to get this the practical to work
 ## Content Insights
-Wordpress looks like a great and simple way to to create a cms site it look more straight-forward than Joomla 4, 
-in the furture if I need to make a CMS website i might just pick Wordpress
+learning how to set up child theme for wordpress is a good skill to learn
 ## Career/Employability/Learning Insights
-Wordpress is a good CMS tool, learning how to use Wordpress will definitly help in the future
+Wordpress is good cms to learn about, learn about some of its core funstion are a good thing to learn about
