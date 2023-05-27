@@ -1,9 +1,9 @@
 # Learning Journal Week 10
 ## Week 10
 ## Learning Activities
-
+this wseek i learn about SASS, SASS is css with superpowers
 ## Resources/Links
-[Source 1](https://www.youtube.com/watch?v=6EukZDFE_Zg&ab_channel=Simplilearn)
+[Source 1]([https://www.youtube.com/watch?v=6EukZDFE_Zg&ab_channel=Simplilearn](https://www.w3schools.com/sass/))
 [Source 2](https://www.youtube.com/watch?v=OK_JCtrrv-c&ab_channel=freeCodeCamp.org)
 ## Estimated Hours
 15 hours going over youtube video and website tutorials , 7 hours group work
